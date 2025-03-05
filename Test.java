@@ -13,7 +13,7 @@ public class Test extends JFrame {
     private void addControl() {
         Container con = getContentPane();
         con.setLayout(new BorderLayout());
-
+// Ninh 
         // Tiêu đề
         JPanel pnTop = new JPanel();
         JLabel lblTitle = new JLabel("Giải phương trình bậc 2");
